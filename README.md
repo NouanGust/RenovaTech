@@ -33,15 +33,12 @@ Projeto web sem dependências externas, focado nos fundamentos de front-end: est
 
 | | |
 |---|---|
-| Repositório | [github.com/NouanGust/palavra-secreta](https://github.com/NouanGust/palavra-secreta) |
-| Versão publicada | [Jogar online](#) |
+| Repositório | [github.com/NouanGust/palavra-secreta](https://github.com/NouanGust/JogoAdvinhacao) |
+| Versão publicada | [Jogar online](https://nouangust.github.io/JogoAdidinhacao/) |
 
 ---
 
 ## Sobre o Programa
 
-O **RenovaTech** é um programa de capacitação em tecnologia e desenvolvimento de jogos voltado para a formação prática de novos desenvolvedores. Os projetos aqui listados foram construídos durante as aulas e refletem os conteúdos abordados em cada etapa do curso.
+O **RenovaTech**foi um programa de capacitação em tecnologia e desenvolvimento de jogos voltado para a formação prática de novos desenvolvedores. Os projetos aqui listados foram construídos durante as aulas e refletem os conteúdos abordados em cada etapa do curso.
 
----
-
-*Desenvolvido em parceria com [GameCreators](#).*
