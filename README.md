@@ -18,7 +18,7 @@ Projeto prático que abrange os fundamentos de game development com Unity: físi
 
 | | |
 |---|---|
-| Repositório | [github.com/NouanGust/sunny-runner](#) |
+| Repositório | [github.com/NouanGust/sunny-runner](https://github.com/NouanGust/EndlessRunnerUnity) |
 | Versão publicada | [Jogar online](https://nouangust.itch.io/sunny-runner) |
 
 ---
